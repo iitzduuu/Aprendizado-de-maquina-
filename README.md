@@ -1,0 +1,2 @@
+- Repository designed to store Machine Learning activities carried out at the college during the semester
+- Covered: Regression and classification problems, use of KNN and decision tree
